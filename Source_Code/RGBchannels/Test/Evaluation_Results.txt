@@ -1,0 +1,315 @@
+Image name : test1 
+For 100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 21.248288 dB 
+ 
+Image name : test1 
+For 100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 21.174042 dB 
+ 
+Image name : test1 
+For 1200000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.849239 dB 
+ 
+Image name : test1 
+For 1200000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.899831 dB 
+ 
+Image name : test1 
+For 1500000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.806717 dB 
+ 
+Image name : test1 
+For 1500000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.854587 dB 
+ 
+Image name : test1 
+For 1800000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.723443 dB 
+ 
+Image name : test1 
+For 1800000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.795745 dB 
+ 
+Image name : test1 
+For 2100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.639583 dB 
+ 
+Image name : test1 
+For 2100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.743230 dB 
+ 
+Image name : test1 
+For 2400000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.721882 dB 
+ 
+Image name : test1 
+For 2400000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.814170 dB 
+ 
+Image name : test1 
+For 2700000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.847609 dB 
+ 
+Image name : test1 
+For 2700000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.953211 dB 
+ 
+Image name : test1 
+For 2733500 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.912540 dB 
+ 
+Image name : test1 
+For 2733500 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 20.015107 dB 
+ 
+Image name : test1 
+For 300000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.224648 dB 
+ 
+Image name : test1 
+For 300000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.240549 dB 
+ 
+Image name : test1 
+For 600000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 19.194645 dB 
+ 
+Image name : test1 
+For 600000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 19.210235 dB 
+ 
+Image name : test1 
+For 900000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 35.297798 dB 
+PSNR for SRCNN Reconstruction: 20.034744 dB 
+ 
+Image name : test1 
+For 900000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 30.882717 dB 
+PSNR for SRCNN Reconstruction: 20.044917 dB 
+ 
+Image name : test2 
+For 100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 19.235165 dB 
+ 
+Image name : test2 
+For 100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 19.228254 dB 
+ 
+Image name : test2 
+For 1200000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.323558 dB 
+ 
+Image name : test2 
+For 1200000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.326008 dB 
+ 
+Image name : test2 
+For 1500000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.205753 dB 
+ 
+Image name : test2 
+For 1500000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.209021 dB 
+ 
+Image name : test2 
+For 1800000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.133051 dB 
+ 
+Image name : test2 
+For 1800000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.139869 dB 
+ 
+Image name : test2 
+For 2100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.073645 dB 
+ 
+Image name : test2 
+For 2100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.083799 dB 
+ 
+Image name : test2 
+For 2400000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.159296 dB 
+ 
+Image name : test2 
+For 2400000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.168344 dB 
+ 
+Image name : test2 
+For 2700000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.312369 dB 
+ 
+Image name : test2 
+For 2700000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.322748 dB 
+ 
+Image name : test2 
+For 2733500 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.366130 dB 
+ 
+Image name : test2 
+For 2733500 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.376598 dB 
+ 
+Image name : test2 
+For 300000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 16.668362 dB 
+ 
+Image name : test2 
+For 300000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 16.664995 dB 
+ 
+Image name : test2 
+For 600000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 16.526412 dB 
+ 
+Image name : test2 
+For 600000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 16.520012 dB 
+ 
+Image name : test2 
+For 900000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 41.489461 dB 
+PSNR for SRCNN Reconstruction: 17.489406 dB 
+ 
+Image name : test2 
+For 900000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 36.957007 dB 
+PSNR for SRCNN Reconstruction: 17.485648 dB 
+ 
+Image name : test3 
+For 100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 25.261409 dB 
+ 
+Image name : test3 
+For 100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 25.222873 dB 
+ 
+Image name : test3 
+For 1200000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.525264 dB 
+ 
+Image name : test3 
+For 1200000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.522766 dB 
+ 
+Image name : test3 
+For 1500000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.449320 dB 
+ 
+Image name : test3 
+For 1500000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.447516 dB 
+ 
+Image name : test3 
+For 1800000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.381348 dB 
+ 
+Image name : test3 
+For 1800000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.388555 dB 
+ 
+Image name : test3 
+For 2100000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.325802 dB 
+ 
+Image name : test3 
+For 2100000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.343847 dB 
+ 
+Image name : test3 
+For 2400000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.423878 dB 
+ 
+Image name : test3 
+For 2400000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.438605 dB 
+ 
+Image name : test3 
+For 2700000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.580568 dB 
+ 
+Image name : test3 
+For 2700000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.599164 dB 
+ 
+Image name : test3 
+For 2733500 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 23.635263 dB 
+ 
+Image name : test3 
+For 2733500 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 23.653697 dB 
+ 
+Image name : test3 
+For 300000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 22.919467 dB 
+ 
+Image name : test3 
+For 300000 backward propagations and an upscale of 3, the evaluation results are: 
+PSNR for Bicubic Interpolation: 37.455280 dB 
+PSNR for SRCNN Reconstruction: 22.917975 dB 
+ 
+Image name : test3 
+For 600000 backward propagations and an upscale of 2, the evaluation results are: 
+PSNR for Bicubic Interpolation: 42.111788 dB 
+PSNR for SRCNN Reconstruction: 22.786287 dB 
+ 
